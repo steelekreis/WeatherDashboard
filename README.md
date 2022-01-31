@@ -6,6 +6,7 @@ A website that allows the user to search for a city, which will return a current
 
 ## Demo
 
+![weatherdashboard](https://user-images.githubusercontent.com/89118701/151749543-5ec037ad-8303-4997-a30b-3503ae6627fb.gif)
 
 
 ## Built With
@@ -20,4 +21,5 @@ A website that allows the user to search for a city, which will return a current
 * Moment.js
 
 ## Website
+https://steelekreis.github.io/WeatherDashboard/
 
